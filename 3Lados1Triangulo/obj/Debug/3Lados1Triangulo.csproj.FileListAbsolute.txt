@@ -1,0 +1,16 @@
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\bin\Debug\3Lados1Triangulo.exe.config
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\bin\Debug\3Lados1Triangulo.exe
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\bin\Debug\3Lados1Triangulo.pdb
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\_3Lados1Triangulo.Properties.Resources.resources
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\3Lados1Triangulo.csproj.GenerateResource.Cache
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\3Lados1Triangulo.exe
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\3Lados1Triangulo.pdb
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\_3Lados1Triangulo.frmDefiniciones.resources
+c:\users\usuario\onedrive\documentos\visual studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\_3Lados1Triangulo.frmcalcRectas.resources
+C:\Users\Usuario\OneDrive\Documentos\Visual Studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\bin\Debug\3Lados1Triangulo.exe.manifest
+C:\Users\Usuario\OneDrive\Documentos\Visual Studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\bin\Debug\3Lados1Triangulo.application
+C:\Users\Usuario\OneDrive\Documentos\Visual Studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\3Lados1Triangulo.exe.manifest
+C:\Users\Usuario\OneDrive\Documentos\Visual Studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\3Lados1Triangulo.application
+C:\Users\Usuario\OneDrive\Documentos\Visual Studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\_3Lados1Triangulo.MdiSecundario.resources
+C:\Users\Usuario\OneDrive\Documentos\Visual Studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\3Lados1Triangulo.csprojAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Visual Studio 2015\Projects\3Lados1Triangulo\3Lados1Triangulo\obj\Debug\3Lados1Triangulo.csproj.CoreCompileInputs.cache
